@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, My name is Mustafa!</h1>
-<h3 align="center">I'm Software Engineer and Data Analyst</h3>
+<h3 align="center">I'm Software Engineer</h3>
 
-- 🔭 I’m currently working on **kurbernets, tensorflow, more...**
+- 🔭 I’m currently working on **Spring Boot, Kafka, and more...**
 
-- 🌱 I’m currently learning **ML algorithms and visual my projects.**
+- 🌱 I’m currently learning **React.js, Angular.js, MicroServices**
 
 - 👨‍💻 All of my projects are available at [mustafavardal.com](mustafavardal.com)
 
-- 💬 Ask me about **Python libs such as pandas and numpy.**
+- 💬 Ask me about **Java Spring Framework, Algorithms & Data Structure.**
 
-- 📫 How to reach me **m.vardal@hotmail.com**
+- 📫 How to reach me **matt.m.vardal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mustafavardal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mustafavardal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vardalm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mustafavardal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/emve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emve" height="30" width="40" /></a>
 <a href="https://instagram.com/m_ard__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_ard__" height="30" width="40" /></a>
 </p>
