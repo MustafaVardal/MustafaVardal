@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/vardalm/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mustafavardal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/emve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="emve" height="30" width="40" /></a>
-<a href="https://instagram.com/m_ard__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_ard__" height="30" width="40" /></a>
 <a href="https://medium.com/@m.vardal.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="m.vardal.94" height="30" width="40" /></a>
 </p>
 
